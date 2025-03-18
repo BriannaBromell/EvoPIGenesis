@@ -1,0 +1,6 @@
+{
+    "map_size": 15,
+    "max_wall_height": 3,
+    "food_spawn_rate": 1.45,
+    "energy_cost_per_meter": 12
+}
